@@ -1,5 +1,6 @@
 # OBJECT DETECT WITH FEATURE EXTRACTION 💻 📷
 
+### Install requirements and run ***main.py*** !
 ### Example usage:
 
 ![alt text](docs/readme_images/main_usage.gif?raw=true) 
