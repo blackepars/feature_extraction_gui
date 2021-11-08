@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="images">
+    <file>icons/camera.png</file>
+    <file>icons/close_icon.png</file>
+    <file>icons/data.png</file>
+    <file>icons/delete.png</file>
+    <file>icons/down-icon.png</file>
+    <file>icons/homepage.png</file>
+    <file>icons/pause_icon.png</file>
+    <file>icons/person.png</file>
+    <file>icons/refresh_icon.png</file>
+    <file>icons/right-icon.png</file>
+    <file>icons/save-icon.png</file>
+    <file>icons/settings_icon_2.png</file>
+    <file>icons/start_icon.png</file>
+    <file>icons/up-icon.png</file>
+  </qresource>
+</RCC>
