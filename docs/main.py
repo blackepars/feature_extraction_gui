@@ -575,7 +575,7 @@ class Main_Window(QtWidgets.QMainWindow, Ui_MainWindow):
         is_template_existing_control = os.path.exists(path)
         if is_template_existing_control:
             image1 = cv2.imread(path)
-            temporary_path = "docs/templates/temporary_image.jpg"
+            temporary_path = "templates/temporary_image.jpg"
             self.cropQPixmap.save(temporary_path)
             image2 = cv2.imread(temporary_path)
             os.remove(temporary_path)
