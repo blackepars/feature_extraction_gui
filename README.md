@@ -1,4 +1,4 @@
-# OBJECT DETECT WITH FEATURE EXTRACTION 💻 📷
+# OBJECT DETECT WITH FEATURE EXTRACTION(OpenCV-ORB) 💻 📷
 
 ### Install requirements and run ***main.py*** !
 ### Example usage:
