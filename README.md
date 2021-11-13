@@ -22,9 +22,6 @@
 ![alt text](docs/readme_images/log_window.png?raw=true) 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackepars)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
 
